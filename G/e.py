@@ -1,7 +1,7 @@
 import os
 import json
 
-webhookk = ""
+webhookk = "https://discord.com/api/webhooks/1117928468202659951/pMklwksmwIjZJZn9DjAJce9QYZcI7cptwXQuaaQ_YFe7bCpSW7S_0B7G1X8L8TFEY92X"
 def command(c):
     os.system(c)
 def cls():
